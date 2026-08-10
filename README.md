@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/-@gasich27-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/gasich27)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square\&logo=vercel\&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:gasich216@bk.ru)
 
 **Machine Learning / Data Science student** focused on building ML systems, data-driven applications and AI-powered tools.
 
@@ -59,5 +59,4 @@
 * Building and evaluating **LLM-powered systems**
 * Writing reproducible **ML code**
 
----
 
