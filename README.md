@@ -15,7 +15,7 @@
 
 [![Excel Analytics Platform](https://svg.bookmark.style/api?url=https://github.com/gasich27/excel-bot-analysis\&mode=light\&style=horizontal)](https://github.com/gasich27/excel-bot-analysis)
 [![PLANLY](https://svg.bookmark.style/api?url=https://github.com/gasich27/planly\&mode=dark\&style=horizontal)](https://github.com/gasich27/planly)
-[![retail-demand-forecasting]([https://svg.bookmark.style/api?url=https://github.com/gasich27/ozon-compas\&mode=light\&style=horizontal)](https://github.com/gasich27/ozon-compas](https://github.com/gasich27/retail-demand-forecasting))
+[![retail-demand-forecasting]([https://svg.bookmark.style/api?url=https://github.com/gasich27/retail-demand-forecasting\&mode=light\&style=horizontal)](https://github.com/gasich27/retail-demand-forecasting](https://github.com/gasich27/retail-demand-forecasting))
 
 ---
 ---
