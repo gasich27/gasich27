@@ -13,8 +13,8 @@
 
 ## 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
-[![Excel Analytics Platform](https://svg.bookmark.style/api?url=https://github.com/gasich27/excel-bot-analysis\&mode=light\&style=horizontal)](https://github.com/gasich27/excel-bot-analysis)
-[![PLANLY](https://svg.bookmark.style/api?url=https://github.com/gasich27/planly\&mode=light\&style=horizontal)](https://github.com/gasich27/planly)
+[![excel-analytics-platform](https://svg.bookmark.style/api?url=https://github.com/gasich27/excel-bot-analysis\&mode=light\&style=horizontal)](https://github.com/gasich27/excel-bot-analysis)
+[![proximity-track-search](https://svg.bookmark.style/api?url=https://github.com/gasich27/proximity_track_search\&mode=light\&style=horizontal)](https://github.com/gasich27/proximity_track_search)
 [![retail-demand-forecasting](https://svg.bookmark.style/api?url=https://github.com/gasich27/retail-demand-forecasting&mode=light&style=horizontal)](https://github.com/gasich27/retail-demand-forecasting)
 
 ---
