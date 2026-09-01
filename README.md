@@ -16,6 +16,7 @@
 [![retail-demand-forecasting](https://svg.bookmark.style/api?url=https://github.com/gasich27/retail-demand-forecasting&mode=light&style=horizontal&v=2)](https://github.com/gasich27/retail-demand-forecasting)
 [![excel-bot-analysis](https://svg.bookmark.style/api?url=https://github.com/gasich27/excel-bot-analysis&mode=light&style=horizontal&v=2)](https://github.com/gasich27/excel-bot-analysis)
 [![proximity-track-search](https://svg.bookmark.style/api?url=https://github.com/gasich27/proximity_track_search&mode=light&style=horizontal&v=2)](https://github.com/gasich27/proximity_track_search)
+
 ---
 ---
 
