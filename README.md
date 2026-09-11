@@ -50,15 +50,5 @@
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)
 ![LLM APIs](https://img.shields.io/badge/-LLM%20APIs-412991?style=flat-square\&logo=openai\&logoColor=white)
 
----
----
-
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗙𝗼𝗰𝘂𝘀
-
-* Building end-to-end **Machine Learning projects**
-* Improving **statistics & experimentation**
-* Studying **Deep Learning**
-* Building and evaluating **LLM-powered systems**
-* Writing reproducible **ML code**
 
 
