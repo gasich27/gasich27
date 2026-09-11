@@ -1,4 +1,4 @@
-# 𝙃𝙞, 𝙄'𝙢 𝘼𝙣𝙙𝙧𝙚𝙮 𝙂𝙖𝙨𝙞𝙡𝙤𝙫*
+# Привет, 𝙄'𝙢 𝘼𝙣𝙙𝙧𝙚𝙮 𝙂𝙖𝙨𝙞𝙡𝙤𝙫*
 
 [![GitHub](https://img.shields.io/badge/-@gasich27-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/gasich27)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square\&logo=vercel\&logoColor=white)](YOUR_PORTFOLIO_URL)
